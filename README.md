@@ -8,7 +8,7 @@ Using Python and its powerful libraries like **Pandas**, **Matplotlib**, and **S
 
 - Majority of restaurant comes under which type of category  
 - Voting received according to the type of the restaurant  
-- rating distribution according to the majority of restaurent received   
+- rating distribution according to the majority of restaurent received    
 - Average Spending of each couple in each order
 - Which mode has received maximum rating  
 - Types of the restaurant that received more offline orders 
