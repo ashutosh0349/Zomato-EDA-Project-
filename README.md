@@ -69,7 +69,7 @@ Zomato-EDA-Project/
 This project is part of my journey to becoming a **data analyst**, where I work on real-world datasets to strengthen my analytical and problem-solving skills.  
 I focus on **cleaning data, extracting insights, and visual storytelling** through visualizations to make data understandable and actionable.
 
-**Ashutosh Kumar**
+**Ashutosh Kumar**  
 Aspiring Data Analyst  
 
 [E-mail] :-ashutoshsahu0349@gmail.com  
